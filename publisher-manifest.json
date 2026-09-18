@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "8ef7c21a4d7148df5dbd577a",
+  "owner": "txadscvfa",
+  "repo": "txadscvfa.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "c96b46635231a20d9dfaef82",
+      "a": "胡桃云(Hutao)",
+      "b": "加速器官网",
+      "entity": "胡桃云(Hutao)",
+      "brand": "胡桃云(Hutao)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e5c3996a065066d1df9d2b12d93ab9a9bc8b78f5f034051a729f4a3fd78fb62c",
+      "content": {
+        "primary_entity": "胡桃云(Hutao)",
+        "keyword1": "胡桃云(Hutao)",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，Windows、macOS、iOS、Android 与路由器各有适配版本，导入订阅链接即可使用。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，连上胡桃云",
+          "AI_DESCRIPTION": "，胡桃云提供基础版、旗舰版与团队版三档订阅选择，分别面向轻度浏览、多设备日常使用与团队协作场景。基础版适合单人或少量设备，旗舰版增加设备数与专线优化，团队版提供更高流量与定制路由支持。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路类型三个角度对比套餐，选择与日常使用场景匹配的一档。",
+          "AI_FEATURES_TITLE": "套餐如何选择",
+          "AI_FEATURE_TEXT_1": "基础版适合一至三台设备日常浏览，旗舰版覆盖五台设备并优化游戏线路，团队版支持二十台设备与企业路由。",
+          "AI_FEATURE_TEXT_2": "按年付可降低月均成本，三档套餐均提供年付方案，长期使用可优先考虑年付。",
+          "AI_FEATURE_TEXT_3": "订阅周期内流量按月重置，超出后可升级套餐或等待下期重置，无需重复配置客户端。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TITLE_2": "按年付更划算",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "根据设备数量与使用场景选择套餐，查看系统适配要求，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "胡桃云面向需要稳定海外访问的用户，提供基础版、旗舰版与团队版三档订阅。按设备数量与流量需求选择套餐，在对应客户端导入订阅链接即可开始使用。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备场景",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案降低月均成本",
+          "AI_PLANS_INTRO": "先确认常用设备数量与每月大致流量需求，再对比三档套餐的线路与权益差异。",
+          "AI_PLANS_TITLE": "套餐对比要点",
+          "AI_STEP_TEXT_1": "根据常用设备数量与流量需求，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量支持与系统适配要求，确认自己的设备可以正常使用。",
+          "AI_STEP_TEXT_3": "在对应操作系统下载客户端，按客户端文档导入订阅链接并完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "胡桃云加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐支持几台设备同时使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持少量设备同时在线，旗舰版与团队版依次提升同时在线设备数。超出后需要升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_2": "月付灵活性高，适合短期或试用；年付在总价上有优惠，折算后月均成本更低，适合长期稳定使用。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "在所选套餐页面获取订阅信息后，打开对应客户端，找到订阅导入入口粘贴或扫码添加，保存并更新节点即可。",
+          "AI_FAQ_QUESTION_4": "旗舰版的专线适合哪些场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版提供IPLC专线节点，适合对延迟敏感的游戏加速和实时通讯场景，同时具备更高的流媒体解锁能力。",
+          "AI_FAQ_QUESTION_5": "团队版可以定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由与专属客户经理服务，适合多设备并发和特定网络策略需求，具体可与服务方沟通配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5615a3c4cfc11d8c82071c4ec488223d662ab40f8340ab8d64bf2572f52cd8fc",
+    "sitemap.xml": "bf311dfbbe96d46b64ab72766c15047b0af0e22e1c4968fd2c2624182734fbd5",
+    "robots.txt": "87c6034f7b7ca25db2589a1a1fef9fa58b2925d201d1940e62b1c1e867ecf280",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "dfca31508fa644ad36b8cfd05beae9eb59371df2a9b04b52ea3142d96fd84b33"
+}

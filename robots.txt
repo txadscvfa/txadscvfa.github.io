@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://txadscvfa.github.io/sitemap.xml
